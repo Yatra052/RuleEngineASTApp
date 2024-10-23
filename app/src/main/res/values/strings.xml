@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RuleEngineAST</string>
+    <string name="enter_rule">Enter Rule:</string>
+</resources>
